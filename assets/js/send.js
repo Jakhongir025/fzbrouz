@@ -49,7 +49,7 @@ document.getElementById("join__form").addEventListener("submit", async function 
       });
     }
 
-    alert("✅ Xabaringiz muvaffaqiyatli yuborildi! Sizga palonchi raqamdan aloqaga chiqamiz");
+    alert("✅ Xabaringiz muvaffaqiyatli yuborildi! Sizga tez orada aloqaga chiqamiz");
     nameInput.value = "";
     phoneInput.value = "";
     usernameInput.value = "";
